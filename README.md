@@ -13,7 +13,7 @@ You get 5 lives so dont for get to watchout for the linebackers (aka bombs) comi
 However, if your teammates make it to the end zone the level with increase including the difficulty, your teamamtes will continue to get tired and need to takemore football hits to get them to the endzone. When the game ends whether if your player died or your teammates the endscreen will show you your score and  the level you got to before dying. As well as showing you a restart button controled by the letter R, a stats button controlled by the letter S and a quit game button controlled by the letter X.   
 
 Starting Screen: 
-![alt text](https://github.com/artsyone/Savanna_Shaver_Final/blob/master/screenshoots/titlescreen.PNG "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/artsyone/Savanna_Shaver_Final/master/screenshoots/titlescreen.PNG "Logo Title Text 1")
 
 
 Game Play: 
