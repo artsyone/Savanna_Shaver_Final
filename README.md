@@ -19,5 +19,8 @@ Starting Screen:
 Game Play: 
 ![alt text](https://raw.githubusercontent.com/artsyone/Savanna_Shaver_Final/master/screenshots/gameplay.PNG "Logo Title Text 1")
 
+
+[Game Code] (https://github.com/artsyone/Savanna_Shaver_Final/releases/tag/1.0)
+
 By Savanna Shaver
 
