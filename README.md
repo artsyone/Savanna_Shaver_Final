@@ -1,5 +1,8 @@
 # Football!
+
 ## Description 
+
+ In a world exactly like ours there is one game that trumps all others and its called Football! The game consits of the evil and rather large football group both physically and in number the Red Hots. Against the underdogs but what they dont know is we have you as our quaterback, Your team consits of the olgo triplets, who think and run together no matter what.  
  
 ## Instructions
 
