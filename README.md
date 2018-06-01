@@ -17,4 +17,4 @@ Starting Screen:
 
 
 Game Play: 
-![alt text](https://github.com/artsyone/Savanna_Shaver_Final/blob/master/screenshoots/gameplay.PNG "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/artsyone/Savanna_Shaver_Final/master/screenshoots/gameplay.PNG "Logo Title Text 1")
